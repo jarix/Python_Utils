@@ -1,0 +1,27 @@
+# --- Virtual Environments ---
+/.venv*/
+/conda_env/
+*/conda-meta/
+*/pkgs/
+*.conda
+
+# --- Python Bytecode / Cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Jupyter Checkpoints ---
+.ipynb_checkpoints/
+
+# --- OS / Editor Files ---
+.DS_Store
+Thumbs.db
+.idea/
+
+# --- Logs / tmp files / backups ---
+**/*.log
+**/*.tmp
+**/*.bak
+**/*.pkl
+
